@@ -18,7 +18,7 @@ a settings environment, OR a file located private/local.settings.json is also re
 |chrismbeckett:fontawesome4     |Scalable vector icons that can be customized with the power of CSS.|
 |ian:accounts-ui-bootstrap-3    |Bootstrap-styled accounts-ui with multi-language support.|
 |insecure                       |Allow all database writes by default|
-|iron:router                    vRouting specifically designed for Meteor|
+|iron:router                    |Routing specifically designed for Meteor|
 |less                           |The dynamic stylesheet language|
 |meteor-platform                |Include a standard set of Meteor packages in your app|
 |meteorhacks:npm                |Use npm modules with your Meteor App|
@@ -26,5 +26,5 @@ a settings environment, OR a file located private/local.settings.json is also re
 |npm-container                  |Contains all your npm dependencies|
 |reactive-var                   |Reactive variable|
 |tmeasday:publish-counts        |Publish the count of a cursor, in real time|
-|underscore||                   
+|underscore||
 
